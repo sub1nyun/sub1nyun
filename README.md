@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&text=SuBinYoon&fontColor=auto)</div>
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&text=SuBinYoon&fontColor=fff)</div>
 
 <h3 align="center"> 💻 Tech Stack 💻</h3>
 <h4 align="center"> Techs that I've used at least once</h4>
