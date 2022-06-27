@@ -16,12 +16,11 @@
   <img alt="Css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
   
   <br>
-  
-  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white">
+   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
   <img alt="Blender" src="https://img.shields.io/badge/blender-FFFFFF.svg?style=flat-square&logo=blender&logoColor=black">
   
   <br>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
+ 
   
   <br>
 
