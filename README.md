@@ -18,9 +18,6 @@
   <br>
   
    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
-  <img alt="Blender" src="https://img.shields.io/badge/blender-FFFFFF.svg?style=flat-square&logo=blender&logoColor=black">
-  
-  <br>
   
 <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white">
 
