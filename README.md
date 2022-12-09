@@ -21,6 +21,7 @@
   <br>
   
    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
+   <img alt="Slack" src="https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=Slack&logoColor=white" />
   
 <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white">
 
