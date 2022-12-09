@@ -4,7 +4,7 @@
 <h4 align="center"> Techs that I've used at least once</h4>
 
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00?.svg?style=flat-square&logo=java&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/JAVA-%23ED8B00?style=flat-square&logo=JAVA&logoColor=white">
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white">
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
