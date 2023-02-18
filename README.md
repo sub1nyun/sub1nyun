@@ -17,7 +17,7 @@
   <img alt="Html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
   <img alt="Css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-  
+  <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white">
   <br>
   
    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
