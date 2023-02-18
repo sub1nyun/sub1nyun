@@ -20,10 +20,10 @@
   <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white">
   <br>
   
-   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
-   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
-  
-<img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white">
+  <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-4682B4.svg?style=flat-square&logo=AdobePhotoshop&logoColor=white">
 
   <br>
   
