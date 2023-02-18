@@ -31,6 +31,6 @@
   
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
   <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0">
-  <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=F0F0F0">
+ <!-- <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=F0F0F0"> -->
 </p>
 
