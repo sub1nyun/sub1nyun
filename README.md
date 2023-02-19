@@ -1,6 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&text=SuBinYoon&fontColor=auto)</div> -->
- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SuBinYun&fontSize=70)</div>
-
+ <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SuBinYun&fontSize=70)</div> -->
+<h1 align="left"> SuBin Yun</h1>
 
 ## ✨ Work 
 <p>
