@@ -15,9 +15,11 @@
 ## 💻 Currently learning
 
 <p>
+  <img alt="Spring" src="https://img.shields.io/badge/Springboot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sub1nyun&hide_progress=true)](https://github.com/sub1nyun/github-readme-stats)
