@@ -5,11 +5,11 @@
 ## ✨ Work 
 <p>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white">
-  <img alt="MySql" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img alt="MySql" src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=JAVA&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=JavaScript&logoColor=%23F7DE1E">
-  <img alt="Html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
-  <img alt="Css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=JavaScript&logoColor=%23F7DE1E">
+  <img alt="Html5" src="https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=Html5&logoColor=white">
+  <img alt="Css3" src="https://img.shields.io/badge/Css3-%231572B6.svg?style=flat-square&logo=Css3&logoColor=white">
 </p>
 
 ## 💻 Currently learning
