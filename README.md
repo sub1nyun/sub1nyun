@@ -18,7 +18,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=JavaScript&logoColor=%23F7DE1E">
   <img alt="Html5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=Html5&logoColor=white">
   <img alt="Css3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=Css3&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white">
+  <!-- <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"> -->
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> 
 </p>
 
