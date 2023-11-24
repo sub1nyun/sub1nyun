@@ -16,6 +16,7 @@
   <!--<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> -->
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=JavaScript&logoColor=%23F7DE1E">
+  <img alt="Jquery" src="https://img.shields.io/badge/Jquery-0769AD.svg?style=flat-square&logo=Jquery&logoColor=white">
   <img alt="Html5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=Html5&logoColor=white">
   <img alt="Css3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=Css3&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white">
@@ -25,8 +26,8 @@
 ## 💻 Currently learning
 
 <p>
- 
  <img alt="SpringBoot" src="https://img.shields.io/badge/Springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"> 
+ <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=MONGODB&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> -->
  <!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> -->
  <!-- <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"> -->
