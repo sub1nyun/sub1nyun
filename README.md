@@ -30,7 +30,7 @@
  <!-- <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=MONGODB&logoColor=white"> -->
  <!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> -->
  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
- <!-- <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white"> -->
+ <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white">
  <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> -->
  <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/> -->
 
