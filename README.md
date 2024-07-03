@@ -7,7 +7,7 @@
 
  <br/><br/><br/>
  </div>
- <!--
+
 ## ✨ Work 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
@@ -15,7 +15,6 @@
   <img alt="MySql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white">
   <!--<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> -->
-  <!--
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=JavaScript&logoColor=%23F7DE1E">
   <img alt="Jquery" src="https://img.shields.io/badge/Jquery-0769AD.svg?style=flat-square&logo=Jquery&logoColor=white">
   <img alt="Html5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=Html5&logoColor=white">
@@ -23,7 +22,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> 
 </p>
--->
+
 ## 💻 Currently learning
 
 <p>
