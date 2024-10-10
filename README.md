@@ -11,16 +11,23 @@
 ## ✨ Work 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white">
-  <img alt="MySql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white">
+  <!-- <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/>
+  <!-- <img alt="MySql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"> -->
+
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+ 
+ <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+ 
   <!--<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=JavaScript&logoColor=%23F7DE1E">
-  <img alt="Jquery" src="https://img.shields.io/badge/Jquery-0769AD.svg?style=flat-square&logo=Jquery&logoColor=white">
-  <img alt="Html5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=Html5&logoColor=white">
-  <img alt="Css3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=Css3&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> 
+  <!-- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=JavaScript&logoColor=%23F7DE1E"> -->
+  <!-- <img alt="Jquery" src="https://img.shields.io/badge/Jquery-0769AD.svg?style=flat-square&logo=Jquery&logoColor=white"> -->
+  <!-- <img alt="Html5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=Html5&logoColor=white"> -->
+  <!-- <img alt="Css3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=Css3&logoColor=white"> -->
+  <!-- <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"> -->
+  <!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> -->
 </p>
 
 ## 💻 Currently learning
@@ -30,6 +37,7 @@
  <!-- <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=MONGODB&logoColor=white"> -->
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>
  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=Nestjs&logoColor=white">
+ <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=Nextjs&logoColor=white">
  <!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> -->
  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
  <!-- <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white"> -->
