@@ -39,6 +39,7 @@
  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
  <!-- <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=Nestjs&logoColor=white"> -->
  <!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> -->
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
  <!-- <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white"> -->
  <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> -->
